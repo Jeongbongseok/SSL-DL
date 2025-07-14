@@ -28,3 +28,7 @@ This code repository implements training and evaluation algorithms for three Sel
 Self_supervised_learning_based_convolutional_Autoencoder.ipynb # Main execution file
 Data/  # Data processing scripts
 Result/ # Output directory
+
+### Satellite Imagery Dataset
+Due to large file sizes (>1GB), the complete satellite imagery dataset is available at:
+- **Google Drive**: https://drive.google.com/drive/folders/1g5jQty74zqPRH3IGPb-h7q8hyz692hsF?usp=drive_link
