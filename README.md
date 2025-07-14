@@ -1,4 +1,4 @@
-# SSL-learning
+# SSL-DL
 Code accompanying the paper "Development of a Self-Supervised Deep Learning Framework for Chlorophyll-a Retrieval in Data-Scarce Inland Waters" submitted to Environmental Modelling & Software.
 
 ## Authors
