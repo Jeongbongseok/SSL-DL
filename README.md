@@ -25,6 +25,6 @@ This code repository implements training and evaluation algorithms for three Sel
 - 'init_out_ch1'
  
 ## Project Structure
-├── Self_supervised_learning_based_convolutional_Autoencoder.ipynb             # Main execution file
-├── Data/                # Data processing scripts
-└── Result/             # Output directory
+Self_supervised_learning_based_convolutional_Autoencoder.ipynb # Main execution file
+Data/  # Data processing scripts
+Result/ # Output directory
